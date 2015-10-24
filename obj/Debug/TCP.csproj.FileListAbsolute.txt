@@ -1,0 +1,6 @@
+C:\Projects\Playground\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Projects\Playground\TCP\bin\Debug\ian.emerick.TCP.exe.config
+C:\Projects\Playground\TCP\bin\Debug\ian.emerick.TCP.exe
+C:\Projects\Playground\TCP\bin\Debug\ian.emerick.TCP.pdb
+C:\Projects\Playground\TCP\obj\Debug\ian.emerick.TCP.exe
+C:\Projects\Playground\TCP\obj\Debug\ian.emerick.TCP.pdb
